@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Django
+db.sqlite3
+.env
+staticfiles/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
